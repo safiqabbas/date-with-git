@@ -7,4 +7,8 @@
 
 </body>
 </html>
+<<<<<<< HEAD
 no icant
+=======
+yes we can
+>>>>>>> feature
